@@ -14,10 +14,3 @@ def cadastrar_livros(titulo, autor, ano, codigo, status = "disponivel"):
     with open('livros.csv','a',encoding='UTF-8',newline='') as biblioteca:
         escritor = csv.DictWriter(biblioteca,fieldnames=cabecacho)
         escritor.writerow(livro)
-
-titulo = input("Digite o titulo: ")
-autor = input("Digite o autor: ")
-ano = input("Digite o ano: ")
-codigo = input("Digite o codigo: ")
-
-cadastrar_livros(titulo,autor,ano,codigo)
