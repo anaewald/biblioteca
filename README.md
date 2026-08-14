@@ -13,13 +13,13 @@ Depois é só escolher uma opção no menu que aparece na tela.
 Principais funcionalidades
 
 O sistema permite:
-°Cadastrar livros com título, autor, ano e código
-°Emprestar livros
-°Devolver livros
-°Listar os livros cadastrados
-°Buscar livros pelo título ou autor
-°Ordenar os livros por título, autor ou ano
-°Salvar os livros em um arquivo CSV
+- Cadastrar livros com título, autor, ano e código
+- Emprestar livros
+- Devolver livros
+- Listar os livros cadastrados
+- Buscar livros pelo título ou autor
+- Ordenar os livros por título, autor ou ano
+- Salvar os livros em um arquivo CSV
 
 Oque foi usado:
 No projeto foram usados if, elif e else para o menu, while para manter o programa funcionando e funções 
