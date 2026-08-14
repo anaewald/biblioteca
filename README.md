@@ -22,7 +22,7 @@ O sistema permite:
 - Salvar os livros em um arquivo CSV
 
 Oque foi usado:
-No projeto foram usados if, elif e else para o menu, while para manter o programa funcionando e funções 
+Nesse projeto foi usado o if, elif e else para o menu, while para manter o programa funcionando e funções 
 para organizar o código.
 Também foi usada uma lista de dicionários para guardar os livros e o arquivo livros.csv para salvar os  
 dados.
